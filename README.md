@@ -4,9 +4,9 @@ A simple, multi-functional Discord bot.
 
 **Features**
 
-- Moderation
-- Memes
-- More functions coming soon.
+- ✊ Moderation 
+- 🐸 Memes
+- 👉 More functions coming soon.
 
 **Contact us**
 https://discord.gg/wkf6V87pcZ
